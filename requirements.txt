@@ -1,0 +1,4 @@
+quart~=0.19
+quart-schema~=0.18
+transformers~=4.20
+torch~=2.1
